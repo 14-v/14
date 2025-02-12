@@ -1,0 +1,14 @@
+
+body{
+    background-color: rgb(17, 9, 54);
+}
+
+#mex{
+    color: rgb(240, 25, 104);
+    font-family: "Roboto Mono", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 10px;
+    text-align: center;
+}
